@@ -150,7 +150,7 @@ node server.js
 Open in browser:
 
 ```id="83g5z1"
-http://localhost:3000
+http://localhost:2000
 ```
 
 ---
@@ -166,11 +166,8 @@ Instead of writing SQL queries or building dashboards manually, users can simply
 # Future Improvements
 
 * AI generated dashboards (multiple charts)
-* CSV dataset upload
-* Query history
-* Chart export
-* AI chart recommendations
 * Interactive filtering
+* continuous chat
 
 ---
 
